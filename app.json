@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tienda-autopartes-app",
-    "slug": "tienda-autopartes-app",
+    "name": "tienda-frontend",
+    "slug": "tienda-frontend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
